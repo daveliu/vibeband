@@ -23,6 +23,9 @@ Play looping ambient soundscapes — coffee shops, rain, fireplaces, or anything
 │                                                                  │
 ╰──────────────────────────────────────────────────────────────────╯
 ```
+<img width="400" height="319" alt="CleanShot 2026-02-26 at 21 32 13@2x" src="https://github.com/user-attachments/assets/a19015d8-cb58-4f77-8c2e-c5f98ab696e5" />
+
+
 
 ## Install
 
