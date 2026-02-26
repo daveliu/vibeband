@@ -24,18 +24,35 @@ Play looping ambient soundscapes — coffee shops, rain, fireplaces, or anything
 ╰──────────────────────────────────────────────────────────────────╯
 ```
 
+## Install
+
+### Homebrew (macOS/Linux)
+
+```bash
+brew tap daveliu/tap
+brew install vibeband
+```
+
+### Cargo
+
+```bash
+cargo install vibeband
+```
+
+### From source
+
+```bash
+git clone https://github.com/daveliu/vibeband.git
+cd vibeband
+cargo build --release
+```
+
 ## Setup
 
 Requires an [ElevenLabs API key](https://elevenlabs.io):
 
 ```bash
 export ELEVENLABS_API_KEY="your-key-here"
-```
-
-Build and run:
-
-```bash
-cargo build --release
 ```
 
 ## Usage
