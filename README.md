@@ -1,6 +1,6 @@
 # vibeband
 
-Ambient sound generator for your terminal. Powered by [ElevenLabs](https://elevenlabs.io) sound generation API.
+Ambient sound generator for your terminal. Powered by [ElevenLabs](https://elevenlabs.io) sound generation API.Visualization inspired by [cliamp](https://github.com/bjarneo/cliamp).
 
 Play looping ambient soundscapes — coffee shops, rain, fireplaces, or anything you can describe — right from your terminal with a spectrum visualizer.
 
